@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://images2.alphacoders.com/751/751214.jpg");
+  background-position: center;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:100vh;
+  font-family: 'Noto Sans', sans-serif;
+}
+.box{
+  position: absolute;
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%,-50%);
+  background-color: rgba(0, 0, 0, 0.89);
+  border-radius: 3px;
+  padding: 70px 80px;
+  height: 90px;
+}
+.text-center{
+  color: white;
+  font-size: 18px;
+  margin: -105px 0 0 0;
+  display: block;
+  text-align: center;
+}
+#Wac {
+  position: relative;
+  width: 185px;
+  top: -30px;
+  left: 32%;
+  }
